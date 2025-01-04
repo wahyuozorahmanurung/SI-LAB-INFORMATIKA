@@ -1,3 +1,6 @@
+
+SiLab (Sistem Informasi Lab Informatika) adalah sebuah platform digital yang dirancang untuk mempermudah pengelolaan berbagai aspek laboratorium informatika, baik untuk admin maupun asisten dosen (asdos). Sistem ini mencakup fitur-fitur utama seperti manajemen absensi mahasiswa dan asdos, pengelolaan jadwal praktikum, pengumpulan tugas dan proyek besar (tubes) dalam bentuk file, serta pengelolaan data pengguna. Dengan antarmuka yang intuitif dan fungsionalitas yang terintegrasi, SiLab memberikan kemudahan dalam memantau kehadiran, mengelola data akademik, dan memastikan efisiensi dalam administrasi laboratorium. Sistem ini juga mendukung peran admin untuk mengelola akun pengguna, termasuk asdos dan mahasiswa, sehingga setiap pengguna mendapatkan akses sesuai dengan tugas dan tanggung jawab mereka. Melalui SiLab, laboratorium informatika dapat dijalankan dengan lebih terstruktur dan modern.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
